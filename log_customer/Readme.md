@@ -14,17 +14,17 @@ _Before starting, you need to know that this module is developed to work with pr
 
 ### Installation 🔧
 
-_This module is included in the slider_modal package of the homonymous repository, so you need to clone it and then copy it to the modules folder of your prestashop project:_
+_This module is included in a ps_log_customer github repository, so you need to clone it and then copy it to the modules folder of your prestashop project:_
 
 1. Clone the repository containing the module:
 
 ```
-https://github.com/jsolorzano/slider_modal.git
+https://github.com/jsolorzano/ps_log_customer.git
 ```
 
-2. Copy the 'cms_pages' folder to the modules directory of your prestashop project.
+2. Copy the 'log_customer' folder contained within the repository to the modules folder of your prestashop project.
 
-3. Go to the administration panel of your prestashop project and install the new module 'cms_pages'.
+3. Go to the module catalog section in the administration panel of your prestashop project and install the new available module "Customer log module" or "Módulo de logs de clientes" if your environment is in Spanish.
 
 
 
@@ -32,9 +32,9 @@ https://github.com/jsolorzano/slider_modal.git
 
 _Once all the previous steps have been carried out, you will be ready to use the functions provided by the module._
 
-_This module will also allow you to configure a list of urls that will be used as a filter by the js validator, with which you can determine which elements of the slider should open in a modal window and which should not._
+_The module's functions are attached to the internal workings of your prestashop project, so it does not require other configurations after installation. However, when you install the module, a series of Spanish translations are installed for it that you can customize at any time in the translations area of the International panel. You only need to select the module and the language to modify (Spanish) and you will have the module's translatable labels in a form._
 
 
 
 ---
-⌨️ por [jsolorzano](https://github.com/jsolorzano)
+⌨️ by [jsolorzano](https://github.com/jsolorzano)
